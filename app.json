@@ -1,0 +1,12 @@
+{
+  "name": "voice_reader",
+  "displayName": "voice_reader",
+  "expo": {
+    "name": "voice_reader",
+    "slug": "voice_reader",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
